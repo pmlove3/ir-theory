@@ -35,3 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+<p><a class="weatherwidget-io" href="https://forecast7.com/en/35d23n80d84/charlotte/?unit=us" data-label_1="CHARLOTTE" data-label_2="WEATHER" >CHARLOTTE WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&#8216;https://weatherwidget.io/js/widget.min.js&#8217;;fjs.parentNode.insertBefore(js,fjs);}}(document,&#8216;script&#8217;,&#8216;weatherwidget-io-js&#8217;);
+</script></p>
