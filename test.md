@@ -1,11 +1,11 @@
-# Header
-## Subhead
+# Example
+## Information
 
 *Hello* there is  **somthething** to know ~~about~~ 
 [Apple](https://www.apple.com)
 
 
-Title| Title2 | Title 3
+A| B | C
 |----:|----:|----:|
 |1|2|3
 
