@@ -12,4 +12,13 @@ Title| Title2 | Title 3
 ![cat](https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg?resize=750px:*)
 
 
-$2 \pi r^2$
+$$
+2 $\pi$ r^2
+
+
+
+```R
+library(tidyverse)
+
+X <- 2
+```
