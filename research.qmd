@@ -1,0 +1,30 @@
+---
+title: "Research"
+---
+
+## Research Agenda
+
+[Your Name]'s research sits at the intersection of [subfield(s) of IR theory], asking [core research question]. The broader project argues that [one-sentence thesis of your research agenda].
+
+## Current Projects
+
+### [Working paper / dissertation chapter title]
+
+[Two or three sentences describing the project, its theoretical contribution, and method.]
+
+### [Second project title]
+
+[Two or three sentences describing the project.]
+
+## Publications
+
+::: {.callout-note}
+Add entries below as they become available. A simple list works well; for larger lists consider Quarto's `listing` feature or a dedicated bibliography.
+:::
+
+- [Your Name]. (Forthcoming). "[Article title]." *[Journal Name]*.
+- [Your Name]. (20XX). "[Working paper title]." Working paper.
+
+## Working Papers & Manuscripts in Progress
+
+- "[Title]" (with [Co-author], if applicable) — under review at *[Journal]*.

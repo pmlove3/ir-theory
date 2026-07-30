@@ -1,0 +1,17 @@
+---
+title: "Welcome"
+date: 2026-07-30
+categories: [meta, R]
+---
+
+This site is built with [Quarto](https://quarto.org), using R (via `knitr`) to render code chunks directly into posts and pages. Replace this post with your own writing — analysis, notes on new papers, conference reports, or anything else.
+
+Because posts are rendered through R, code and output stay in sync automatically. For example:
+
+```{r}
+summary(cars)
+```
+
+```{r}
+plot(cars, main = "Speed vs. stopping distance")
+```

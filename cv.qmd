@@ -1,0 +1,37 @@
+---
+title: "CV"
+---
+
+::: {.callout-note}
+Add your CV as a PDF at `files/cv.pdf` and the download button below will work automatically. Until then, this page lists a CV outline you can fill in directly, or replace with the embedded PDF.
+:::
+
+[Download CV (PDF)](files/cv.pdf)
+
+## Education
+
+**PhD in International Relations**, [University], [Year] (expected)
+
+**MA in [Field]**, [University], [Year]
+
+**BA in [Field]**, [University], [Year]
+
+## Appointments
+
+**[Position]**, [Institution], [Years]
+
+## Publications
+
+See the [Research](research.qmd) page for a full list.
+
+## Fellowships & Awards
+
+- [Award], [Institution/Body], [Year]
+
+## Conference Presentations
+
+- "[Paper title]," [Conference Name], [Location], [Year]
+
+## Service
+
+- [Committee / editorial role / reviewer for journals]

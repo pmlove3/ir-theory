@@ -1,0 +1,40 @@
+---
+title: "Your Name"
+image: profile.svg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:you@example.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/yourusername
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/
+---
+
+## Bio
+
+[Your Name] is a [PhD Candidate / Lecturer / Assistant Professor] of International Relations at [Institution]. Their work focuses on [one-sentence description of your research agenda], drawing on [theoretical traditions, e.g. realism, constructivism, IPE] to examine [substantive focus, e.g. great power competition, international institutions, security studies].
+
+Before joining [Institution], [Your Name] [previous role / degree / fellowship]. Their research has been supported by [funding body], and their writing has appeared in [venues], or is placeholder content pending your first publications.
+
+## Research Interests
+
+- International Relations Theory
+- [Add a second research interest]
+- [Add a third research interest]
+
+## Education
+
+**PhD in International Relations**, [University], [Year] (expected)
+
+**MA in [Field]**, [University], [Year]
+
+**BA in [Field]**, [University], [Year]

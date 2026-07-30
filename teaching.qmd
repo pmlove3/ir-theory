@@ -1,0 +1,22 @@
+---
+title: "Teaching"
+---
+
+## Instructor of Record
+
+**[Course Title]**, [Institution], [Term/Year]
+: [One-sentence course description.]
+
+## Teaching Assistant
+
+**[Course Title]**, [Institution], [Term/Year] — Instructor: [Name]
+: [One-sentence course description.]
+
+**[Course Title]**, [Institution], [Term/Year] — Instructor: [Name]
+: [One-sentence course description.]
+
+## Teaching Interests
+
+- International Relations Theory
+- [Add another teaching interest]
+- [Add another teaching interest]

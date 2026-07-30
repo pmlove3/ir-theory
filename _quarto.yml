@@ -1,0 +1,41 @@
+project:
+  type: website
+
+website:
+  title: "Your Name"
+  description: "Academic profile — International Relations Theory"
+  site-url: "https://pmlove3.github.io/ir-theory/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: blog/index.qmd
+        text: Blog
+    right:
+      - icon: envelope
+        href: mailto:you@example.com
+      - icon: github
+        href: https://github.com/yourusername
+  page-footer:
+    left: "© 2026 Your Name"
+    right:
+      - icon: envelope
+        href: mailto:you@example.com
+      - icon: github
+        href: https://github.com/yourusername
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+
+execute:
+  freeze: auto
