@@ -18,7 +18,9 @@ Add your CV as a PDF at `files/cv.pdf` and the download button below will work a
 
 ## Appointments
 
-**[Position]**, [Institution], [Years]
+**Instructor / Academic Specialist**, NYU Abu Dhabi, [Years]
+
+**[Prior Position]**, [Institution], [Years]
 
 ## Publications
 

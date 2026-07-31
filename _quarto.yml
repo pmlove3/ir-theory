@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Your Name"
+  title: "Paul Max Love III"
   description: "Academic profile — International Relations Theory"
   site-url: "https://pmlove3.github.io/ir-theory/"
   navbar:
@@ -23,7 +23,7 @@ website:
       - icon: github
         href: https://github.com/yourusername
   page-footer:
-    left: "© 2026 Your Name"
+    left: "© 2026 Paul Max Love III"
     right:
       - icon: envelope
         href: mailto:you@example.com

@@ -1,5 +1,5 @@
 ---
-title: "Your Name"
+title: "Paul Max Love III"
 image: profile.svg
 about:
   template: trestles
@@ -21,9 +21,9 @@ about:
 
 ## Bio
 
-[Your Name] is a [PhD Candidate / Lecturer / Assistant Professor] of International Relations at [Institution]. Their work focuses on [one-sentence description of your research agenda], drawing on [theoretical traditions, e.g. realism, constructivism, IPE] to examine [substantive focus, e.g. great power competition, international institutions, security studies].
+Paul Max Love III is an Instructor / Academic Specialist at NYU Abu Dhabi. Their work focuses on [one-sentence description of your research agenda], drawing on [theoretical traditions, e.g. realism, constructivism, IPE] to examine [substantive focus, e.g. great power competition, international institutions, security studies].
 
-Before joining [Institution], [Your Name] [previous role / degree / fellowship]. Their research has been supported by [funding body], and their writing has appeared in [venues], or is placeholder content pending your first publications.
+Before joining NYU Abu Dhabi, Paul Max Love III [previous role / degree / fellowship]. Their research has been supported by [funding body], and their writing has appeared in [venues], or is placeholder content pending your first publications.
 
 ## Research Interests
 
